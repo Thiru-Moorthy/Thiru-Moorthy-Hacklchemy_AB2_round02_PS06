@@ -1,0 +1,39 @@
+torch
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+networkx
+scikit-learn
+matplotlib
+pandas
+requests
+numpy
+tqdm
+beautifulsoup4
+html5lib
+PySocks
+termcolor
+argparse
+
+
+Programming Language
+Python 3.9+ (Recommended: Python 3.11)
+
+Libraries & Dependencies
+
+PyTorch → For Graph Neural Networks (GNNs)
+Transformers (Hugging Face) → NLP models (RoBERTa for text classification)
+TOR Requests → For dark web monitoring
+PyQt5 → GUI
+Scikit-Learn → Machine learning utilities
+NetworkX → Graph visualization
+Matplotlib → Plotting threat graphs
+Requests → API requests
+Stem → TOR control library
+TensorFlow/Keras → Optional for additional ML models
+SQLite/MySQL (Optional) → To store threat intelligence logs
+External Services
+TOR Network (Must be installed & running)
+Cybersecurity APIs (Optional: VirusTotal, AbuseIPDB for threat intelligence)
